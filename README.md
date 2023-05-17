@@ -6,7 +6,7 @@
 
 Welcome to the Ultrasound Breast Cancer Classification repository. This project is an application of Convolutional Neural Networks (CNNs) for classifying ultrasound breast images into malignant or benign categories. The model was trained using TensorFlow and Keras libraries, and it uses image augmentation and batch normalization for improving the model's performance.
 
-![Project Screenshot](./screenshot.png)
+
 
 ## Project Files
 
